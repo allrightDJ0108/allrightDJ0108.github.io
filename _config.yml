@@ -70,15 +70,10 @@ content:
       - layout: left
         title: DalKom.Shop
         link:
-        sub_title: PM <br> Backend Developer
+        sub_title: PM <br> Backend Developer <br> Monitoring
         caption: 2024.01 - 2024.02
         description: | # this will include new lines to allow paragraphs
           KEA SW Academy에서 진행한 기업실무 프로젝트에서 임직원 전용 쇼핑몰인 DalKom.Shop 프로젝트의 PM 및 백앤드 개발자로 참여했습니다. 
-          
-          [ 역할 ]
-          - PM
-          - BackEnd Developer
-          - Monitoring
           
           [ 개발 ]
           - 시스템과 Jira 연동
@@ -96,8 +91,8 @@ content:
 
       - title: Allways Blog
         link:
-        sub_title: Backend Developer
-        caption: 2021.01. ~ 2022.01
+        sub_title: Backend Developer <br> Monitoring
+        caption: 2021.01. - 2022.01
         description: | # this will include new lines to allow paragraphs
           KEA SW Academy에서 진행한 Allways 블로그 프로젝트에서 백앤드 개발자로 참여했습니다. <br>
           생성형 AI 기술을 활용한 사용자 친화적 블로그를 개발했으며, 그 중 아래 항목을 담당했습니다. <br><br>
@@ -158,34 +153,38 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: SAA - AWS Certified Solutions Architect Associate
+        title: AWS SAA
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: AWS (Amazon Web Services)
+        # sub_title: AWS (Amazon Web Services)
         caption: 2024년 01월
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        quote: >
+          AWS Certified Solutions Architect Associate
         description: | # this will include new lines to allow paragraphs
+          AWS (Amazon Web Services) <br>
           AWS04123722
 
-      - title: SQLD - SQL Developer
+      - title: SQLD
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: 한국데이터산업진흥원
+        # sub_title: 한국데이터산업진흥원
         caption: 2023년 10월
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        quote: >
+          SQL Developer
         description: | # this will include new lines to allow paragraphs
+          한국데이터산업진흥원 <br>
           SQLD-050009906
 
       - title: 정보처리기사
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: 한국산업인력공단 23201100830V
+        # sub_title: 한국산업인력공단
         caption: 2023년 07월
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        # quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+          한국산업인력공단 <br>
+          23201100830V
 
 
 
@@ -209,7 +208,7 @@ content:
       - title: KEA SW Academy
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: 가천 카카오엔터프라이즈 SW Academy 3기
+        sub_title: 가천 카카오엔터프라이즈 SW Academy <br> 3기
         caption: 2023년 09월 - 2024년 02월
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -222,7 +221,7 @@ content:
 
       - title: LET Speech Club
         link: https://www.instagram.com/letspeechclub/
-        sub_title: 대학 연합 발표동아리 22기 / 홍보부장
+        sub_title: 대학 연합 발표동아리 22기 <br> 홍보부장
         caption: 2018년 01월 - 2019년 01월
         description: | # this will include new lines to allow paragraphs
           ~기 위해 매주 다른 주제로 발표하는 대학 연합 발표 동아리에서 활동했습니다. <br>
