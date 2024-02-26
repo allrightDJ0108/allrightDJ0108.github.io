@@ -31,9 +31,9 @@ linkedin_username: dajeong-choe-최다정-902bb829b
 
 # Additional icon links
 additional_links:
-- title: da-zzling.tistory.com
-  icon: fas fa-globe
-  url: https://da-zzling.tistory.com/
+  - title: da-zzling.tistory.com
+    icon: fas fa-globe
+    url: https://da-zzling.tistory.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. **경험하고 공감하는 개발자** 최다정입니다.
   
@@ -63,6 +63,26 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
   - title: Project # 프로젝트
     layout: list # Type of content section (list/text)
     content:
@@ -148,12 +168,12 @@ content:
       - title: 정보처리기사
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: 한국산업인력공단
+        sub_title: 한국산업인력공단 23201100830V
         caption: 2023년 07월
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          23201100830V
+
 
 
   - title: Activity # 활동
@@ -178,7 +198,9 @@ content:
         caption: 2018년 01월 - 2019년 01월
         description: | # this will include new lines to allow paragraphs
           매주 다른 주제로 발표하는 대학 연합 발표 동아리에서 활동했습니다.
+          
           이 활동을 통해 소통 능력, 발표 경험을 향상 시킬 수 있었습니다.
+          
           기술 스택
             - <mark>Communication</mark>, <mark>Presentaion</mark>
 
@@ -195,6 +217,7 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           웹 서비스 개발 회사에서 대학별 개인역량관리 시스템 및 현장실습시스템 프로젝트 사업에 참여했습니다.
+          
           Web Developer로 근무하면서 기획자와 소통하며 고객에게 최선의 서비스를 제공했습니다.
 
   - title: Education # 학력
@@ -208,6 +231,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           컴퓨터공학 학사 Computer Engineering
+          
           평점 3.93 / 4.5
 
 
@@ -224,4 +248,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
