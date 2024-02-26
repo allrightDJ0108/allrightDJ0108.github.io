@@ -193,7 +193,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: KEA SW Academy
+        title: 모각코 스터디
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: 가천 카카오엔터프라이즈 SW Academy 3기
+        caption: 2023년 02월 - 진행중
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          이 활동을 통해 다양한 프로젝트 경험, 팀원과의 협업 능력을 향상 시킬 수 있었습니다.  <br>
+          
+          기술 스택
+            - <mark>MSA</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>DevOps</mark>, <mark>CI/CD</mark>, <mark>Terraform</mark>, <mark>AWS</mark>, <mark>KaKao Cloud</mark>
+
+      - title: KEA SW Academy
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: 가천 카카오엔터프라이즈 SW Academy 3기
@@ -201,19 +214,19 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          이 활동을 통해 다양한 프로젝트 경험, 팀원과의 협업 능력을 향상 시킬 수 있었습니다.
-          
+          ~고, 프로젝트 경험을 늘리고자 Academy 활동을 시작하게 되었습니다.
+          이 활동을 통해 각종 IT 특강은 물론 다양한 프로젝트 경험, 팀원과의 협업 능력을 향상 시킬 수 있었습니다.  <br>
+
           기술 스택
             - <mark>MSA</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>DevOps</mark>, <mark>CI/CD</mark>, <mark>Terraform</mark>, <mark>AWS</mark>, <mark>KaKao Cloud</mark>
 
       - title: LET Speech Club
-        # link: https://www.lgcns.com/
+        link: https://www.instagram.com/letspeechclub/
         sub_title: 대학 연합 발표동아리 22기 / 홍보부장
         caption: 2018년 01월 - 2019년 01월
         description: | # this will include new lines to allow paragraphs
-          매주 다른 주제로 발표하는 대학 연합 발표 동아리에서 활동했습니다.
-          
-          이 활동을 통해 소통 능력, 발표 경험을 향상 시킬 수 있었습니다.
+          ~기 위해 매주 다른 주제로 발표하는 대학 연합 발표 동아리에서 활동했습니다. <br>
+          이 활동을 통해 소통 능력, 발표 경험을 향상 시킬 수 있었습니다. <br>
           
           기술 스택
             - <mark>Communication</mark>, <mark>Presentaion</mark>
@@ -230,8 +243,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          웹 서비스 개발 회사에서 대학별 개인역량관리 시스템 및 현장실습시스템 프로젝트 사업에 참여했습니다.
-          
+          웹 서비스 개발 회사에서 대학별 개인역량관리 시스템 및 현장실습시스템 프로젝트 사업에 참여했습니다. <br>
           Web Developer로 근무하면서 기획자와 소통하며 고객에게 최선의 서비스를 제공했습니다.
 
   - title: Education # 학력
@@ -244,8 +256,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          컴퓨터공학 학사 Computer Engineering
-          
+          컴퓨터공학 학사 Computer Engineering <br>
           평점 3.93 / 4.5
 
 
