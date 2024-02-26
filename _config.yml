@@ -63,49 +63,62 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any
-        # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+
   - title: Project # 프로젝트
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: DalKom.Shop
-        link: www.nhncloud.com/kr
-        sub_title: Junior Backend Developer
-        caption: 2022.02 ~ 현재
+        link:
+        sub_title: PM <br> Backend Developer
+        caption: 2024.01 - 2024.02
         description: | # this will include new lines to allow paragraphs
-          Email 서비스를 담당하여 운영하고 있습니다. <br><br>
-          기술 스택
-          - <mark>Spring Boot</mark>,<mark>Nginx</mark>,<mark>RabbitMQ</mark>,<mark>Junit5</mark>, <mark>Java8/11</mark>, <mark>Javascript</mark>
-          - <mark>Jenkins</mark>, <mark>Sonarqube</mark>, <mark>Grafana</mark>
-          - <mark>Mybatis</mark>, <mark>MySQL</mark>, <mark>Git</mark>
+          KEA SW Academy에서 진행한 기업실무 프로젝트에서 임직원 전용 쇼핑몰인 DalKom.Shop 프로젝트의 PM 및 백앤드 개발자로 참여했습니다. 
+          
+          [ 역할 ]
+          - PM
+          - BackEnd Developer
+          - Monitoring
+          
+          [ 개발 ]
+          - 시스템과 Jira 연동
+          - 관리자 통계 서비스 및 전용 대시보드 개발
+          - Elasticsearch를 활용한 유사어 검색 개발
+          - Elastic Stack을 활용한 모니터링 담당
+          
+          [ 기술 스택 ]
+          - <mark>Java11</mark>, <mark>React</mark>, <mark>Spring Boot</mark>, <mark>Gradle</mark>
+          - <mark>AWS</mark>, <mark>KaKao Cloud</mark>, <mark>Elastic Stack</mark>
+          - <mark>Docker</mark>, <mark>GitHub Actions</mark>, <mark>Sonarqube</mark>, <mark>JUnit5</mark>, <mark>K6</mark>
+          - <mark>JPA</mark>, <mark>MyBatis</mark>, <mark>MySQL</mark>, <mark>Elasticsearch</mark>
+          - <mark>GitHub</mark>, <mark>Jira</mark>, <mark>Slack</mark>, <mark>Notion</mark>, <mark>intellij</mark>, <mark>DBeaver</mark>
+      
 
-      - title: LG CNS
-        link: https://www.lgcns.com/
-        sub_title: Junior Backend Developer
+      - title: Allways Blog
+        link:
+        sub_title: Backend Developer
         caption: 2021.01. ~ 2022.01
         description: | # this will include new lines to allow paragraphs
-          LG Uplus 서비스 Ucube 시스템의 단말기 판매 기능을 개발하였습니다.<br><br>
-          기술 스택
-            - <mark>Spring Boot</mark>, <mark>JPA</mark>
+          KEA SW Academy에서 진행한 Allways 블로그 프로젝트에서 백앤드 개발자로 참여했습니다. <br>
+          생성형 AI 기술을 활용한 사용자 친화적 블로그를 개발했으며, 그 중 아래 항목을 담당했습니다. <br><br>
+          
+          [ 역할 ]
+          - BackEnd Developer
+          - Monitoring
+          
+          [ 개발 ]
+          - 시스템과 Jira 연동
+          - 관리자 통계 서비스 및 전용 대시보드 개발
+          - Elasticsearch를 활용한 유사어 검색 개발
+          - Elastic Stack을 활용한 모니터링 담당
+          
+          [ 기술 스택 ]
+          - <mark>Java11</mark>, <mark>Python</mark>, <mark>React</mark>, <mark>Spring Boot</mark>, <mark>Fast API</mark>, <mark>Gradle</mark>
+          - <mark>AWS</mark>, <mark>Elastic Stack</mark>
+          - <mark>Docker</mark>, <mark>Jenkins</mark>, <mark>Sonarqube</mark>, <mark>JUnit5</mark>, <mark>JMeter</mark>
+          - <mark>JPA</mark>, <mark>MySQL</mark>, <mark>MongoDB</mark>, <mark>Kafka</mark>, <mark>Debezium</mark>, <mark>Confluent</mark>
+          - <mark>GitHub</mark>, <mark>Jira</mark>, <mark>Slack</mark>, <mark>Notion</mark>, <mark>intellij</mark>, <mark>DBeaver</mark>
+          
 
   - title: Certificate # 수료증
     layout: list # Type of content section (list/text)
@@ -180,7 +193,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: KEA SW Academy
+        title: 모각코 스터디
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: 가천 카카오엔터프라이즈 SW Academy 3기
+        caption: 2023년 02월 - 진행중
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          이 활동을 통해 다양한 프로젝트 경험, 팀원과의 협업 능력을 향상 시킬 수 있었습니다.  <br>
+          
+          기술 스택
+            - <mark>MSA</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>DevOps</mark>, <mark>CI/CD</mark>, <mark>Terraform</mark>, <mark>AWS</mark>, <mark>KaKao Cloud</mark>
+
+      - title: KEA SW Academy
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: 가천 카카오엔터프라이즈 SW Academy 3기
@@ -188,18 +214,19 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          이 활동을 통해 다양한 프로젝트 경험, 팀원과의 협업 능력을 향상 시킬 수 있었습니다.
+          ~고, 프로젝트 경험을 늘리고자 Academy 활동을 시작하게 되었습니다.
+          이 활동을 통해 각종 IT 특강은 물론 다양한 프로젝트 경험, 팀원과의 협업 능력을 향상 시킬 수 있었습니다.  <br>
+
           기술 스택
             - <mark>MSA</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>DevOps</mark>, <mark>CI/CD</mark>, <mark>Terraform</mark>, <mark>AWS</mark>, <mark>KaKao Cloud</mark>
 
       - title: LET Speech Club
-        # link: https://www.lgcns.com/
+        link: https://www.instagram.com/letspeechclub/
         sub_title: 대학 연합 발표동아리 22기 / 홍보부장
         caption: 2018년 01월 - 2019년 01월
         description: | # this will include new lines to allow paragraphs
-          매주 다른 주제로 발표하는 대학 연합 발표 동아리에서 활동했습니다.
-          
-          이 활동을 통해 소통 능력, 발표 경험을 향상 시킬 수 있었습니다.
+          ~기 위해 매주 다른 주제로 발표하는 대학 연합 발표 동아리에서 활동했습니다. <br>
+          이 활동을 통해 소통 능력, 발표 경험을 향상 시킬 수 있었습니다. <br>
           
           기술 스택
             - <mark>Communication</mark>, <mark>Presentaion</mark>
@@ -216,8 +243,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          웹 서비스 개발 회사에서 대학별 개인역량관리 시스템 및 현장실습시스템 프로젝트 사업에 참여했습니다.
-          
+          웹 서비스 개발 회사에서 대학별 개인역량관리 시스템 및 현장실습시스템 프로젝트 사업에 참여했습니다. <br>
           Web Developer로 근무하면서 기획자와 소통하며 고객에게 최선의 서비스를 제공했습니다.
 
   - title: Education # 학력
@@ -230,8 +256,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          컴퓨터공학 학사 Computer Engineering
-          
+          컴퓨터공학 학사 Computer Engineering <br>
           평점 3.93 / 4.5
 
 
