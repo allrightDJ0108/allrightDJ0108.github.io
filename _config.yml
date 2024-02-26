@@ -67,7 +67,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: NHN CLOUD
+        title: DalKom.Shop
         link: www.nhncloud.com/kr
         sub_title: Junior Backend Developer
         caption: 2022.02 ~ 현재
@@ -86,6 +86,40 @@ content:
           LG Uplus 서비스 Ucube 시스템의 단말기 판매 기능을 개발하였습니다.<br><br>
           기술 스택
             - <mark>Spring Boot</mark>, <mark>JPA</mark>
+
+  - title: Certificate # 수료증
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 2023 멀티클라우드 환경의 오케스트레이션 실전구현
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: 파이브웍스
+        caption: 2023년 12월
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          멀티클라우드 현황 교육, Terraform을 활용한 멀티클라우드 환경 구축 실습
+
+      - title: 2023 데브옵스 환경의 모니터링과 테스트 실전구현
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: 로이드케이
+        caption: 2023년 11월
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Elastic을 활용한 기초 교육, Kibana, Rules & Connectors, Observability 솔루션 실습
+
+      - title: 2023 AWS JAM
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: AWS (Amazon Web Services)
+        caption: 2023년 11월
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          AWS 서비스를 활용해 주어진 과제를 수행하는 AWS Jam 에 참여 및 수료, 1위 수상
 
   - title: License # 자격증
     layout: list # Type of content section (list/text)
@@ -121,39 +155,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           23201100830V
 
-  - title: Certificate # 수료증
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 2023 멀티클라우드 환경의 오케스트레이션 실전구현
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: 파이브웍스
-        caption: 2023년 12월
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          멀티클라우드 현황 교육, Terraform을 활용한 멀티클라우드 환경 구축 실습
-
-      - title: 2023 데브옵스 환경의 모니터링과 테스트 실전구현
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: 로이드케이
-        caption: 2023년 11월
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          Elastic을 활용한 기초 교육, Kibana, Rules & Connectors, Observability 솔루션 실습
-
-      - title: 2023 AWS JAM
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: AWS (Amazon Web Services)
-        caption: 2023년 11월
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          AWS 서비스를 활용해 주어진 과제를 수행하는 AWS Jam 에 참여 및 수료, 1위 수상
 
   - title: Activity # 활동
     layout: list # Type of content section (list/text)
@@ -200,12 +201,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 가천대학교 Gachon University
+        title: Gachon University
         caption: 2017년 - 2023년
-        sub_title: 컴퓨터공학 학사 Computer Engineering
+        sub_title: 가천대학교
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          컴퓨터공학 학사 Computer Engineering
           평점 3.93 / 4.5
 
 
