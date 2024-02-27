@@ -60,7 +60,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   또한, 커뮤니케이션을 좋아하여 상대방의 의도를 신속히 파악하고, 제 의견을 조리 있게 주장하는 것에 자신이 있습니다.
   
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
 
@@ -82,7 +81,7 @@ content:
           - Elastic Stack을 활용한 모니터링 담당
           
           [ 기술 스택 ]
-          - <mark>Java11</mark>, <mark>React</mark>, <mark>Spring Boot</mark>, <mark>Gradle</mark>
+          - <mark>Java</mark>, <mark>React</mark>, <mark>Spring Boot</mark>, <mark>Gradle</mark>
           - <mark>AWS</mark>, <mark>KaKao Cloud</mark>, <mark>Elastic Stack</mark>
           - <mark>Docker</mark>, <mark>GitHub Actions</mark>, <mark>Sonarqube</mark>, <mark>JUnit5</mark>, <mark>K6</mark>
           - <mark>JPA</mark>, <mark>MyBatis</mark>, <mark>MySQL</mark>, <mark>Elasticsearch</mark>
@@ -108,7 +107,7 @@ content:
           - Elastic Stack을 활용한 모니터링 담당
           
           [ 기술 스택 ]
-          - <mark>Java11</mark>, <mark>Python</mark>, <mark>React</mark>, <mark>Spring Boot</mark>, <mark>Fast API</mark>, <mark>Gradle</mark>
+          - <mark>Java</mark>, <mark>Python</mark>, <mark>React</mark>, <mark>Spring Boot</mark>, <mark>Fast API</mark>, <mark>Gradle</mark>
           - <mark>AWS</mark>, <mark>Elastic Stack</mark>
           - <mark>Docker</mark>, <mark>Jenkins</mark>, <mark>Sonarqube</mark>, <mark>JUnit5</mark>, <mark>JMeter</mark>
           - <mark>JPA</mark>, <mark>MySQL</mark>, <mark>MongoDB</mark>, <mark>Kafka</mark>, <mark>Debezium</mark>, <mark>Confluent</mark>
@@ -158,9 +157,9 @@ content:
         # link_text: boringcompany.com
         # sub_title: AWS (Amazon Web Services)
         caption: 2024년 01월
-        quote: >
-          AWS Certified Solutions Architect Associate
+        # quote: >
         description: | # this will include new lines to allow paragraphs
+          <strong>AWS Certified Solutions Architect Associate</strong> <br>
           AWS (Amazon Web Services) <br>
           AWS04123722
 
@@ -169,9 +168,9 @@ content:
         # link_text: boringcompany.com
         # sub_title: 한국데이터산업진흥원
         caption: 2023년 10월
-        quote: >
-          SQL Developer
+        # quote: >
         description: | # this will include new lines to allow paragraphs
+          <strong>SQL Developer</strong>
           한국데이터산업진흥원 <br>
           SQLD-050009906
 
