@@ -93,7 +93,7 @@ content:
       - title: Allways Blog
         link:
         sub_title: Backend Developer <br> Monitoring
-        caption: 2022년 09월 - 2022년 12월 (4개월)
+        caption: 2023년 09월 - 2023년 12월 (4개월)
         description: | # this will include new lines to allow paragraphs
           KEA SW Academy에서 블로그 웹 서비스를 주제로 PBL 프로젝트를 진행했습니다. <br>
           생성형 AI 기술을 활용한 사용자 친화적 블로그를 개발했으며, 그 중 아래 항목을 담당했습니다. <br><br>
@@ -120,7 +120,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Terraform - Multi Cloud Orchestration
+        title: Terraform <br>Multi Cloud Orchestration
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: 파이브웍스
@@ -131,7 +131,7 @@ content:
           <strong>멀티클라우드 환경의 오케스트레이션 실전구현</strong> <br>
           멀티클라우드 현황 교육, Terraform을 활용한 멀티클라우드 환경 구축 실습
 
-      - title: Elastic for DevOps <br>Monitoring and Testing Implementation
+      - title: Elastic Stack <br>Monitoring in a DevOps Environment
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: 로이드케이
@@ -140,7 +140,7 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           <strong>데브옵스 환경의 모니터링과 테스트 실전구현</strong> <br>
-          Elastic을 활용한 기초 교육, Kibana, Rules & Connectors, Observability 솔루션 실습을 진행했습니다. <br>
+          Elasticsearch에 대한 기초 교육, Kibana, Rules & Connectors, Observability 솔루션 실습을 진행했습니다. <br>
           30명의 학생 중 5명을 선발하는 교육우수생으로 선발되어 Elastic 자격증 취득 교육을 받았습니다.
 
       - title: AWS JAM
@@ -148,10 +148,10 @@ content:
         # link_text: boringcompany.com
         sub_title: AWS (Amazon Web Services)
         caption: 2023년 11월
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        quote: >
+          Put your skills to the test by solving challenges that emulate real AWS use cases
         description: | # this will include new lines to allow paragraphs
-          실제 AWS 서비스 사용 사례에 대한 문제를 해결하여 실시간으로 점수를 획득하는 AWS JAM 이벤트에 참여했습니다.
+          실제 AWS 서비스 사용 사례에 대한 문제를 해결하여 실시간으로 점수를 획득하는 AWS JAM 이벤트에 참여했습니다. <br>
           AWS 서비스에 대한 이해도를 바탕으로 총 30명의 참가자 중에서 1위를 달성하였습니다.
 
   - title: License # 자격증
