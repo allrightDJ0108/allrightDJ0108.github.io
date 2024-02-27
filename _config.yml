@@ -70,9 +70,11 @@ content:
         title: DalKom.Shop
         link:
         sub_title: PM <br> Backend Developer <br> Monitoring
-        caption: 2024.01 - 2024.02
+        caption: 2024년 01월 - 2024년 02월 (2개월)
         description: | # this will include new lines to allow paragraphs
-          KEA SW Academy에서 진행한 기업실무 프로젝트에서 임직원 전용 쇼핑몰인 DalKom.Shop 프로젝트의 PM 및 백앤드 개발자로 참여했습니다. 
+          기업주도 집중프로젝트 교육 프로그램에서 임직원 전용 쇼핑몰
+          KEA SW Academy에서 진행한 기업실무 프로젝트에서 임직원 전용 쇼핑몰인 DalKom.Shop 프로젝트에 참여했습니다. <br>
+          10명으로 구성된 팀의 PM을 맡았으며, 
           
           [ 개발 ]
           - 시스템과 Jira 연동
@@ -91,9 +93,9 @@ content:
       - title: Allways Blog
         link:
         sub_title: Backend Developer <br> Monitoring
-        caption: 2021.01. - 2022.01
+        caption: 2022년 09월 - 2022년 12월 (4개월)
         description: | # this will include new lines to allow paragraphs
-          KEA SW Academy에서 진행한 Allways 블로그 프로젝트에서 백앤드 개발자로 참여했습니다. <br>
+          KEA SW Academy에서 블로그 웹 서비스를 주제로 PBL 프로젝트를 진행했습니다. <br>
           생성형 AI 기술을 활용한 사용자 친화적 블로그를 개발했으며, 그 중 아래 항목을 담당했습니다. <br><br>
           
           [ 역할 ]
@@ -118,7 +120,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 2023 멀티클라우드 환경의 오케스트레이션 실전구현
+        title: Terraform - Multi Cloud Orchestration
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: 파이브웍스
@@ -126,9 +128,10 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+          <strong>멀티클라우드 환경의 오케스트레이션 실전구현</strong> <br>
           멀티클라우드 현황 교육, Terraform을 활용한 멀티클라우드 환경 구축 실습
 
-      - title: 2023 데브옵스 환경의 모니터링과 테스트 실전구현
+      - title: Elastic for DevOps <br>Monitoring and Testing Implementation
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: 로이드케이
@@ -136,9 +139,11 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Elastic을 활용한 기초 교육, Kibana, Rules & Connectors, Observability 솔루션 실습
+          <strong>데브옵스 환경의 모니터링과 테스트 실전구현</strong> <br>
+          Elastic을 활용한 기초 교육, Kibana, Rules & Connectors, Observability 솔루션 실습을 진행했습니다. <br>
+          30명의 학생 중 5명을 선발하는 교육우수생으로 선발되어 Elastic 자격증 취득 교육을 받았습니다.
 
-      - title: 2023 AWS JAM
+      - title: AWS JAM
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: AWS (Amazon Web Services)
@@ -146,7 +151,8 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          AWS 서비스를 활용해 주어진 과제를 수행하는 AWS Jam 에 참여 및 수료, 1위 수상
+          실제 AWS 서비스 사용 사례에 대한 문제를 해결하여 실시간으로 점수를 획득하는 AWS JAM 이벤트에 참여했습니다.
+          AWS 서비스에 대한 이해도를 바탕으로 총 30명의 참가자 중에서 1위를 달성하였습니다.
 
   - title: License # 자격증
     layout: list # Type of content section (list/text)
@@ -170,7 +176,7 @@ content:
         caption: 2023년 10월
         # quote: >
         description: | # this will include new lines to allow paragraphs
-          <strong>SQL Developer</strong>
+          <strong>SQL Developer</strong> <br>
           한국데이터산업진흥원 <br>
           SQLD-050009906
 
@@ -204,16 +210,16 @@ content:
           기술 스택
             - <mark>MSA</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>DevOps</mark>, <mark>CI/CD</mark>, <mark>Terraform</mark>, <mark>AWS</mark>, <mark>KaKao Cloud</mark>
 
-      - title: KEA SW Academy
+      - title: 가천 카카오엔터프라이즈 <br>SW Academy
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: 가천 카카오엔터프라이즈 SW Academy <br> 3기
-        caption: 2023년 09월 - 2024년 02월
+        sub_title: KEA SW Academy 3기
+        caption: 2023년 09월 - 2024년 02월 (6개월)
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           ~고, 프로젝트 경험을 늘리고자 Academy 활동을 시작하게 되었습니다.
-          이 활동을 통해 각종 IT 특강은 물론 다양한 프로젝트 경험, 팀원과의 협업 능력을 향상 시킬 수 있었습니다.  <br>
+          이 활동을 통해 각종 IT 세미나는 물론 다양한 프로젝트 경험, 팀원과의 협업 능력을 향상 시킬 수 있었습니다. <br>
 
           기술 스택
             - <mark>MSA</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>DevOps</mark>, <mark>CI/CD</mark>, <mark>Terraform</mark>, <mark>AWS</mark>, <mark>KaKao Cloud</mark>
@@ -221,7 +227,7 @@ content:
       - title: LET Speech Club
         link: https://www.instagram.com/letspeechclub/
         sub_title: 대학 연합 발표동아리 22기 <br> 홍보부장
-        caption: 2018년 01월 - 2019년 01월
+        caption: 2018년 01월 - 2019년 01월 (1년)
         description: | # this will include new lines to allow paragraphs
           ~기 위해 매주 다른 주제로 발표하는 대학 연합 발표 동아리에서 활동했습니다. <br>
           이 활동을 통해 소통 능력, 발표 경험을 향상 시킬 수 있었습니다. <br>
@@ -237,7 +243,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Web Developer
-        caption: 2021년 08월 - 2023년 06월
+        caption: 2021년 08월 - 2023년 06월 (1년 11개월)
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
