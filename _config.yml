@@ -200,15 +200,18 @@ content:
         title: 모각코 스터디
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: 가천 카카오엔터프라이즈 SW Academy 3기
+        sub_title: 함께 성장하는 KEA
         caption: 2023년 02월 - 진행중
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          이 활동을 통해 다양한 프로젝트 경험, 팀원과의 협업 능력을 향상 시킬 수 있었습니다.  <br>
+          아카데미 수료 후 취업 준비 과정에서 자기 주도적 학습과 효율적인 시간 관리의 중요성을 깨닫고, 스터디 그룹을 운영하기 시작했습니다. <br>
+          초기에는 각자의 과제에 집중하는 활동이었으나, 점차 모의 코딩테스트, 포트폴리오 피드백, 모의 면접 등의 컨텐츠를 도입하여 활동을 구체화했습니다. <br>
+          불규칙한 생활 패턴을 극복하기 위해 4명으로 시작된 스터디는 이러한 다양한 활동들을 통해 성장하여 현재는 12명의 멤버로 구성되어 있습니다. <br>
+          이 활동을 통해 취업 준비 과정에서의 자기 관리 능력뿐만 아니라, 팀워크와 리더십 스킬을 발전시키는 데 크게 도움이 되었습니다. <br>
           
-          기술 스택
-            - <mark>MSA</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>DevOps</mark>, <mark>CI/CD</mark>, <mark>Terraform</mark>, <mark>AWS</mark>, <mark>KaKao Cloud</mark>
+          [ 기술 스택 ]
+            - <mark>Communication</mark>, <mark>Study</mark>
 
       - title: 가천 카카오엔터프라이즈 <br>SW Academy
         # link: boringcompany.com
@@ -218,10 +221,10 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          ~고, 프로젝트 경험을 늘리고자 Academy 활동을 시작하게 되었습니다.
+          ~고, 프로젝트 경험을 늘리고자 Academy 활동을 시작하게 되었습니다. <br>
           이 활동을 통해 각종 IT 세미나는 물론 다양한 프로젝트 경험, 팀원과의 협업 능력을 향상 시킬 수 있었습니다. <br>
 
-          기술 스택
+          [ 기술 스택 ]
             - <mark>MSA</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>DevOps</mark>, <mark>CI/CD</mark>, <mark>Terraform</mark>, <mark>AWS</mark>, <mark>KaKao Cloud</mark>
 
       - title: LET Speech Club
@@ -232,8 +235,8 @@ content:
           ~기 위해 매주 다른 주제로 발표하는 대학 연합 발표 동아리에서 활동했습니다. <br>
           이 활동을 통해 소통 능력, 발표 경험을 향상 시킬 수 있었습니다. <br>
           
-          기술 스택
-            - <mark>Communication</mark>, <mark>Presentaion</mark>
+          [ 기술 스택 ]
+            - <mark>Communication</mark>, <mark>Presentation</mark>
 
   - title: Experience # 경력사항
     layout: list # Type of content section (list/text)
